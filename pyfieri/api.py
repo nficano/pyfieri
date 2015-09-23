@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 from random import choice
 import json
@@ -29,7 +30,3 @@ def load_from_json():
     path = os.path.join(directory, filename)
     with open(path) as fh:
         return json.loads(fh.read())
-
-
-if __name__ == "__main__":
-    print generate()
