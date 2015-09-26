@@ -18,6 +18,7 @@ setup(
     author="Nick Ficano",
     author_email="nficano@gmail.com",
     packages=['pyfieri'],
+    package_data={'pyfieri': ['*.json']},
     url="http://nickficano.com",
     license=open_file('LICENSE.txt').read(),
     scripts=['scripts/pyfieri'],
