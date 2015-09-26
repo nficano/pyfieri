@@ -1,5 +1,3 @@
-.. image:: http://nickficano.com/static/images/pyfieri-signature.png
-
 Description
 ===========
 
