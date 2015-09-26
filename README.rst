@@ -1,7 +1,6 @@
-.. image:: http://nickficano.com/static/images/pyfieri-signature.png
-   :height: 240px
-   :width: 204px
-   :scale: 100%
+<div align="center">
+<img src="http://nickficano.com/static/images/pyfieri-signature.png" />
+<div>
 
 Description
 ===========
