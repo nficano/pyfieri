@@ -1,19 +1,16 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
-from pyfieri import __version__
 import os
-
-
 try:
     from setuptools import setup
 except ImportError:
     from distutils.core import setup
 
+from pyfieri import __version__
+
 
 def open_file(fname):
     return open(os.path.join(os.path.dirname(__file__), fname))
-
 
 setup(
     name="pyfieri",
@@ -38,7 +35,7 @@ setup(
         "Topic :: Software Development :: Libraries :: Python Modules",
         "Topic :: Utilities",
     ],
-    description="A Guy Fieri menu generator",
+    description="Guy Fieri Menu Item Generator",
     long_description=open_file('README.rst').read(),
     zip_safe=True,
 )
