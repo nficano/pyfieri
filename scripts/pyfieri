@@ -5,7 +5,7 @@ from pyfieri.guy_fieri import speak
 
 
 def main():
-    print(speak)
+    print(speak())
 
 if __name__ == '__main__':
     main()
