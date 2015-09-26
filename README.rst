@@ -3,7 +3,8 @@
 Description
 ===========
 
-TODO
+Spice up that boring Slack ohannel or HipChat room with PyFieri! PyFieri is an
+easy to use Python library that randonly generates typical Guy Fieri menu items.
 
 Requirements
 ============
