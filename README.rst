@@ -2,7 +2,13 @@ Description
 ===========
 
 Spice up that boring Slack channel or HipChat room with PyFieri! PyFieri is an
-easy to use Python library that randomly generates Guy Fieri menu items.
+easy to use Python library that randomly generates Guy Fieri menu items. Some
+example include:
+
+- "Jamaican me crazy tuna rolls with kung pao onion rings, $18.75."
+- "Nuthin' fancy pastrami quesadilla with volcano mayo, $21."
+- "Philly-style applewood bacon fajitas with Santa Rosa-style queso blanco, $17 (lunch only)."
+- "Oven roasted elk sliders with roasted garlic onion strips, $48."
 
 Requirements
 ============
