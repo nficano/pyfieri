@@ -1,3 +1,15 @@
+=======
+PyFieri
+=======
+
+.. image:: https://img.shields.io/pypi/v/pyfieri.svg
+  :alt: Pypi
+  :target: https://pypi.python.org/pypi/pyfieri/
+
+.. image:: https://img.shields.io/pypi/dm/pyfieri.svg
+  :alt: Pypi downloads per month
+  :target: https://pypi.python.org/pypi/pyfieri/
+
 Description
 ===========
 
